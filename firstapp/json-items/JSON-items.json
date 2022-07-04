@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "title":"Subtitle",
+        "price":"$49.50"
+    },
+    {
+        "id":2,
+        "title":"Tax & Fees",
+        "price":"$32.75"
+    },
+    {
+        "id":3,
+        "title":"Delivery",
+        "price":"$09.25"
+    },
+    {
+        "id":4,
+        "title":"Discount",
+        "price":"$05.00"
+    }
+]
